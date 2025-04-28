@@ -114,7 +114,7 @@ plot([5 5], [0.5 -0.5], '--k', 'DisplayName', 'Transition')
     print('K_p = 17 , K_d = 1 Model', '-dpng', '-r300')
 hold off
 
-%% Plot 3 for 3.1
+%% Plot 3 for 3.1 (ONLY ONE CYCLE NEEDED)
 % Kg = 33.3;  
 % Km = 0.0401;
 % J = 0.0005 + 0.2 * (0.2794)^2 + 0.0015;
